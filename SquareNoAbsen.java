@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SquareNoAbsen {
+public class Square04 {
     
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
