@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class StarNoAbsen {
+public class Star04 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
